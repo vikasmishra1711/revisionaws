@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("My First Streamlit App")
+st.title("checking the ci/cd")
 
 st.write("Hello Vikas 👋")
 st.write("Welcome to Streamlit!")
